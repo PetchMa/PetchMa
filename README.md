@@ -1,6 +1,12 @@
-# Hey There! 👋
+# Hey there! 👋📡🌌
 
-I'm an 18 year old high school student in Toronto Canada who's into machine learning, astronomy, and academic research. Currently I'm an intern researcher @UCBerkeleySeti building and scaling astronomy search algorithms to the cloud using things like, GCP, Kubernetes + Docker, and flask to serve our platform! I also focus in building ML algorithms to specifically to search for signals within radio spectrograms.
+I'm an 18 year first year student in Toronto Canada who's into machine learning, astronomy, and academic research. Currently I'm an intern researcher **[@UCBerkeleySeti](https://github.com/UCBerkeleySETI)** building and scaling astronomy search algorithms to the cloud using things like, GCP, Kubernetes + Docker, and flask to serve our platform! I also focus in building ML algorithms to specifically to search for signals within radio spectrograms.
+
+Find Me 🌎
+
+  - [Website](https://peterma.ca/) 
+  - [Twitter](https://twitter.com/peterma02)  
+  - [Linkedin](https://www.linkedin.com/in/peter-ma-37a917162/)  
 
 
 
