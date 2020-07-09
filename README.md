@@ -4,7 +4,7 @@ I'm an 18 year old incoming first year student @UofToronto who's into machine le
 
 Currently I'm an intern researcher **[@UCBerkeleySeti](https://github.com/UCBerkeleySETI)** building and scaling astronomy search algorithms to the cloud using things like, GCP, Kubernetes + Docker, and flask to serve our platform! I also focus on building ML algorithms to specifically search for signals within radio spectrograms.
 
-##Find Me 🌎
+## Find Me 🌎
 
   - Learn more about what I do + follow some blog post and solution manuals ✏️ [Website](https://peterma.ca/) 
   - I occasionally tweet about my projects! 💬 [Twitter](https://twitter.com/peterma02)  
