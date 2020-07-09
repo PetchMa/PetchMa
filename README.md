@@ -4,9 +4,9 @@ I'm an 18 year first year student in Toronto Canada who's into machine learning,
 
 Find Me 🌎
 
-  - [Website](https://peterma.ca/) 
-  - [Twitter](https://twitter.com/peterma02)  
-  - [Linkedin](https://www.linkedin.com/in/peter-ma-37a917162/)  
+  - Learn more about what I do + follow some blog post and solution manuals ✏️ [Website](https://peterma.ca/) 
+  - I occasionally tweet about my projects! 💬 [Twitter](https://twitter.com/peterma02)  
+  - When you mean business 💼 [Linkedin](https://www.linkedin.com/in/peter-ma-37a917162/)  
 
 
 
