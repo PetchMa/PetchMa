@@ -1,4 +1,4 @@
-# Hey there! 👋📡🌌
+# Hey there! 👋
 
 I'm an 18 year old incoming first year student @UofToronto who's into machine learning, astronomy, and academic research. 
 
