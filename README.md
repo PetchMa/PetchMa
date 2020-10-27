@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm an 18 year old incoming first year student @UofToronto who's into astronomy, physics, machine learning and research. 
+I'm an 18 year old first year student @UofToronto who's into astronomy, physics, machine learning and research. 
 
 Currently I'm an intern researcher **[@UCBerkeleySETI](https://github.com/UCBerkeleySETI)** building and scaling astronomy search algorithms to the cloud using technologies like, GCP, Kubernetes + Docker, and flask to serve our infrastructure platform! I also focus on building ML algorithms to specifically search for signals within radio spectrograms.
 
