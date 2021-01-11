@@ -10,3 +10,4 @@ Currently I'm an intern researcher **[@UCBerkeleySETI](https://github.com/UCBerk
   - I occasionally tweet about my projects! 💬 [Twitter](https://twitter.com/peterma02)  
   - When you mean business 💼 [Linkedin](https://www.linkedin.com/in/peter-ma-37a917162/)  
 
+<iframe src="https://open.spotify.com/follow/1/?uri=spotify:user:peterxiangyuanma&size=detail&theme=light" width="300" height="56" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>
