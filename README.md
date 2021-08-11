@@ -2,7 +2,9 @@
 
 I'm a 19 year old rising second year student @UofToronto and  **[Laidlaw Scholar](https://laidlawscholars.network/users/peter-ma)** who's into astronomy, physics, machine learning and research. 
 
-Currently I'm an intern researcher **[@UCBerkeleySETI](https://github.com/UCBerkeleySETI)** building and scaling astronomy search algorithms to the cloud using technologies like, GCP, Kubernetes + Docker, and flask to serve our infrastructure platform! I also focus on building ML algorithms to specifically search for signals within radio spectrograms.
+Currently I'm an intern researcher **[@UCBerkeleySETI](https://github.com/UCBerkeleySETI)** building a high performance ML search pipeline for the Green Bank Telescope and eventually the MeerKAT telescope in South Africa. 
+
+Previously I've been scaling astronomy search algorithms to the cloud using technologies like, GCP, Kubernetes + Docker, and flask to serve our infrastructure platform! I also focus on building ML algorithms to specifically search for signals within radio spectrograms.
 
 ## Find Me 🌎
 
