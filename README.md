@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm a 19 year old rising second year student @UofToronto and  **[Laidlaw Scholar](https://laidlawscholars.network/users/peter-ma)** who's into astronomy, physics, machine learning and research. 
+I'm a 19 year old second year student @UofToronto and  **[Laidlaw Scholar](https://laidlawscholars.network/users/peter-ma)** who's into astronomy, physics, machine learning and research. 
 
 Currently I'm an intern researcher **[@UCBerkeleySETI](https://github.com/UCBerkeleySETI)** building a high performance ML search pipeline for the Green Bank Telescope and eventually the MeerKAT telescope in South Africa. 
 
