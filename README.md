@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm a second year student @UofT and **[Laidlaw Scholar](https://laidlawscholars.network/users/peter-ma)**. I'm interested in astronomy, physics, deep learning and the nature of intelligence itself. 
+I'm a third year student @UofT and **[Laidlaw Scholar](https://laidlawscholars.network/users/peter-ma)**. I'm interested in astronomy, physics, deep learning and the nature of intelligence itself. 
 
 Currently I'm **@Caltech LIGO** working on tackling non-linear dynamic control problems using machine learning. I will be specifically investigating attention-based state estimators and reinforcement learning for LIGO's locking acquisition with [Dr. Gabriele Vajente](https://www.linkedin.com/in/gabriele-vajente). I am also still loosely involved **@UC BerkeleySETI** in building a geometric deep learning search pipeline for the MeerKAT telescope with [Dr. Cherry Ng](https://www.dunlap.utoronto.ca/dunlap-people/dr-cherry-ng/).
 
