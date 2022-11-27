@@ -6,5 +6,5 @@ I'm a third year student @UofT and **[Laidlaw Scholar](https://laidlawscholars.n
 
 Previously, I was **@Dunlap Institute of Astronomy & Astrophysics** working on developing ML algorithms for Fast Radio Burst detection with [Prof. Bryan Gaensler](https://www.dunlap.utoronto.ca/dunlap-people/prof-bryan-gaensler-2/). Before that I've worked on building the first deep learning based search pipeline using the Greenbank telescope with Berkeley SETI. During high school, I've been involved in building distributed cloud computing for astronomy research algorithms, also at Berkeley. 
 
-[Research+Blog](https://peterma.ca/) | [Twitter](https://twitter.com/peterma02) | [Linkedin](https://www.linkedin.com/in/peter-ma-37a917162/)  
+[Research+Blog](https://peterma.ca/) | [Twitter](https://twitter.com/peterma02)
 
