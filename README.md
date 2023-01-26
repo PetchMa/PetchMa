@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm a third year student @UofT and **[Laidlaw Scholar](https://laidlawscholars.network/users/peter-ma)**. I'm interested in leveraging ML for scientific discovery. 
+I'm a third year undergrad @UofT and **[Laidlaw Scholar](https://laidlawscholars.network/users/peter-ma)**. I'm interested in leveraging ML for scientific discovery. 
 
 **@Caltech LIGO** I work on tackling non-linear dynamic control problems using deep learning. I am specifically investigating attention-based state estimators and reinforcement learning for LIGO's locking acquisition with [Dr. Gabriele Vajente](https://www.linkedin.com/in/gabriele-vajente). **@UC BerkeleySETI** I'm building a geometric deep learning search pipeline for the MeerKAT telescope with [Dr. Cherry Ng](https://www.dunlap.utoronto.ca/dunlap-people/dr-cherry-ng/).
 
