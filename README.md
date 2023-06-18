@@ -4,7 +4,7 @@ I'm a third year undergrad @UofT and **[Laidlaw Scholar](https://laidlawscholars
 
 **Research Projects:**
 
-* **@CERN** I am helping to build firmware and machine learning algorithms on the Liquid Argon Digital Signal Processor for the Large Hadron Collider. 
+* **@CERN** I am helping to build firmware and ML algorithms on FPGA's for the Liquid Argon Digital Signal Processor on the Large Hadron Collider. 
 * **@BerkeleySETI** building a geometric deep learning search pipeline for the MeerKAT telescope. 
 * **@Caltech LIGO** worked on non-linear dynamic control problems using deep learning involving reinforcement learning and probablistic learning. 
 * **@Dunlap Institute of Astronomy & Astrophysics** worked on developing ML algorithms for Fast Radio Burst detection.
