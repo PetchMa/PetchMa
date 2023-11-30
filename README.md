@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm a third year undergrad @UofT and **[Laidlaw Scholar](https://laidlawscholars.network/users/peter-ma)**. Broadly speaking, I'm interested in ML for scientific discovery in the physical sciences.
+I'm a fourth year undergrad @UofT and **[Laidlaw Scholar](https://laidlawscholars.network/users/peter-ma)**. Broadly speaking, I'm interested in ML for scientific discovery in the physical sciences.
 
 **Research Projects:**
 
