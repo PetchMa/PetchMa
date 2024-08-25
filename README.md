@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm a fourth year undergrad at the University of Toronto and **[Laidlaw Scholar](https://laidlawscholars.network/users/peter-ma)**. Broadly speaking, I'm interested in ML for scientific discovery in the physical sciences.
+I'm a first year graduate student at the UC Berkeley. Broadly speaking, I'm interested in ML for scientific discovery in the physical sciences.
 
 **Research Projects:**
 
