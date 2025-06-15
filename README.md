@@ -1,8 +1,12 @@
 # Hey there! 👋
 
 I'm a first year graduate student at the UC Berkeley. Broadly speaking, I'm interested in ML for scientific discovery in the physical sciences.
+**Grad Research Projects**
+* **Rubin LSST** I am working on developing and deploying a Neural Active Optics Control system for the newly completely Vera C. Rubin Observatory
+* **Neural Compression** ...
+* **Inverse Optics Design** ...
 
-**Research Projects:**
+**Undergrad Research Projects:**
 
 * **@CERN** I helped develop firmware and ML algorithms on FPGA's as part of the Liquid Argon Digital Signal Processor upgrade on ATLAS for the future High-Luminosity Large Hadron Collider. 
 * **@BerkeleySETI** explored using geometric deep learning search pipeline for the MeerKAT telescope. 
