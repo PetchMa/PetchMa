@@ -2,7 +2,7 @@
 
 I'm a first year graduate student at the UC Berkeley. Broadly speaking, I'm interested in ML for scientific discovery in the physical sciences.
 **Grad Research Projects**
-* **Rubin LSST** I am working on developing and deploying a Neural Active Optics Control system for the newly completely Vera C. Rubin Observatory
+* **Rubin LSST** I am working on developing and deploying a Neural Active Optics Control system for the newly completed Vera C. Rubin Observatory
 * **Neural Compression** ...
 * **Inverse Optics Design** ...
 
