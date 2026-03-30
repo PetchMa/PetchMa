@@ -13,7 +13,7 @@ I'm a first year graduate student at the UC Berkeley. Broadly speaking, I'm inte
 * **@Dunlap Institute of Astronomy & Astrophysics** I worked on developing ML algorithms for Fast Radio Burst detection for CHIME radio telescope.
 * **@University of Toronto Dept. Astronomy and Astrophysics** I work on developing Graph Neural Networks and Simulation Based Inferencing to infer, from stellar streams, the mass of dark matter substructure in the Milkyway.
 * **@University of Toronto Dept. Computer Science** I work on developing LLM for equation extraction and symbolic regression.
-* * **@BerkeleySETI** explored using geometric deep learning search pipeline for the MeerKAT telescope. 
+* **@BerkeleySETI** explored using geometric deep learning search pipeline for the MeerKAT telescope. 
 
 
 [Research+Blog](https://peterma.ca/) | [Twitter](https://twitter.com/peterma02)
