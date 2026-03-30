@@ -8,12 +8,12 @@ I'm a first year graduate student at the UC Berkeley. Broadly speaking, I'm inte
 
 **Undergrad Research Projects:**
 
-* **@CERN** I helped develop firmware and ML algorithms on FPGA's on the Liquid Argon Digital Signal Processor upgrade for the future High-Luminosity Large Hadron Collider.  
-* **@Caltech LIGO** I built probablistic deep learning models to solve a non-linear dynamic control problems in stabilizing LIGO's mirrors to nanometer precision with KHz inference times.
+* **@CERN** I developed firmware and ML algorithms for FPGAs as part of the Liquid Argon Digital Signal Processor upgrade for the High-Luminosity LHC.
+* **@Caltech LIGO** I built probablistic deep learning models to solve a non-linear dynamic control problem in stabilizing LIGO's mirrors to nanometer precision with KHz inference speeds.
 * **@Dunlap Institute of Astronomy & Astrophysics** I worked on developing ML algorithms for Fast Radio Burst detection for CHIME radio telescope.
 * **@University of Toronto Dept. Astronomy and Astrophysics** I work on developing Graph Neural Networks and Simulation Based Inferencing to infer, from stellar streams, the mass of dark matter substructure in the Milkyway.
-* * **@BerkeleySETI** explored using geometric deep learning search pipeline for the MeerKAT telescope. 
 * **@University of Toronto Dept. Computer Science** I work on developing LLM for equation extraction and symbolic regression.
+* * **@BerkeleySETI** explored using geometric deep learning search pipeline for the MeerKAT telescope. 
 
 
 [Research+Blog](https://peterma.ca/) | [Twitter](https://twitter.com/peterma02)
